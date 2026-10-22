@@ -1,8 +1,7 @@
 {
-  "versionCode": 124,
-  "versionName": "1.0",
+  "versionCode": 128,
+  "versionName": "1.0.5",
   "apkUrl": "https://raw.githubusercontent.com/hassamasmar-design/my-app/main/SmartTVRemote-v1.apk",
   "forceUpdate": true,
-  "message": "يوجد تحديث جديد. يجب تحديث التطبيق للمتابعة."
+  "message": "تم تحسين واجهة التحديث وإضافة شريط تقدم حقيقي."
 }
-
